@@ -4,8 +4,8 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.13%2B-blue.svg)]()
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--XXXX--XXXX-green.svg)](https://orcid.org/0000-0003-XXXX-XXXX)
+[![DOI](https://zenodo.org/badge/10.5281/zenodo.16894007.svg)](https://10.5281/zenodo.16894007)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--8733--8261-green.svg)](https://orcid.org/0009-0008-8733-8261)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
 
@@ -21,7 +21,7 @@ This repository contains all reproducible data, scripts, and figures used in the
 > **Laurent Danion (2025)**  
 > *Hints of an invariant metronomic Q≈40 across scales: reshaping the arrow of time*  
 > Submitted to *MNRAS*, October 2025  
-> DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+> DOI: [10.5281/zenodo.XXXXXXX](https://10.5281/zenodo.17425591)
 
 ---
 
