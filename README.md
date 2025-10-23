@@ -21,7 +21,7 @@ This repository contains all reproducible data, scripts, and figures used in the
 > **Laurent Danion (2025)**  
 > *Hints of an invariant metronomic Q≈40 across scales: reshaping the arrow of time*  
 > Submitted to *Zenodo*, October 2025  
-> DOI: [0.5281/zenodo.17425591](https://10.5281/zenodo.17425591)
+> DOI: [10.5281/zenodo.17425591](https://10.5281/zenodo.17425591)
 
 ---
 
