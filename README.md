@@ -7,7 +7,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--XXXX--XXXX-green.svg)](https://orcid.org/0000-0003-XXXX-XXXX)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![Paper](https://img.shields.io/badge/MNRAS-submitted-orange.svg)]()
+
 
 ---
 
