@@ -31,9 +31,8 @@ The *Metronomic Doublet* \((P, Q)\) describes how local cadence (P) interacts wi
 producing measurable temporal coherence across physical systems.  
 
 In this framework:
-\[
-Q_{\text{met}} = \frac{P_1}{P_2} \simeq 40 \pm 3
-\]
+
+Qmet ≈ 40 ± 3
 
 This coherence factor emerges repeatedly — from atomic clocks to solar activity and cosmological oscillations —  
 hinting at a universal metronomic structure shaping the **arrow of time**.
