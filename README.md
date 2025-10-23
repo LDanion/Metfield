@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.13%2B-blue.svg)]()
-[![DOI](https://zenodo.org/badge/10.5281/zenodo.16894007.svg)](https://10.5281/zenodo.16894007)
+[![DOI](([https://10.5281/zenodo.16894007](https://doi.org/10.13140/RG.2.2.22448.62729)])]
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--8733--8261-green.svg)](https://orcid.org/0009-0008-8733-8261)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
