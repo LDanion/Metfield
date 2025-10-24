@@ -2,7 +2,7 @@
 # ==========================================================
 # run_japan_pipeline.sh
 # Complete reproduction pipeline for P-field epicentre detection (Japan)
-# Author: Laurent Danion (ORCID: 0000-0003-3852-6684)
+# Author: Laurent Danion (ORCID: 0009-0008-8733-8261)
 # Project: P/Theory — Metronomic Field Analysis
 # ==========================================================
 
