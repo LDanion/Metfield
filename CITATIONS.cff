@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: >
+  If you use this repository, please cite the following work:
+authors:
+  - family-names: Danion
+    given-names: Laurent
+    affiliation: Independent Researcher
+    email: laurent.danion.research@proton.me
+title: >
+  Hints of an Invariant Qmet ≈ 40 Across Scales:
+  The Metronomic Doublet (P,Q) and the Shaping of Temporal Decoherence
+version: "1.0"
+date-released: 2025-10-30
+doi: 10.5281/zenodo.xxxxxx   # ← Remplace ce placeholder par ton DOI Zenodo dès qu’il est actif
+url: https://github.com/ldanion/metfield
+repository-code: https://github.com/ldanion/metfield
+keywords:
+  - metronomic field
+  - temporal doublet
+  - Qmet invariant
+  - black hole physics
+  - Navier–Stokes regularity
+  - scalar field
+  - cosmology
+  - computational physics
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Danion
+      given-names: Laurent
+  title: >
+    Hints of an Invariant Qmet ≈ 40 Across Scales:
+    The Metronomic Doublet (P,Q) and the Shaping of Temporal Decoherence
+  journal: Foundations of Physics
+  publisher: Springer Nature
+  year: 2025
+  status: submitted
+  url: https://github.com/ldanion/metfield
